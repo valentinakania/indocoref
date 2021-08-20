@@ -1,0 +1,31 @@
+{M1:jenis="" Aliens in the Attic (sebelumnya They Came from Upstairs)} adalah {M2:jenis="" {M1:jenis="" sebuah film petualangan keluarga 2009 dibintangi Carter Jenkins, Ashley Tisdale, Robert Hoffman, Henri Young, Regan Young dan Austin Butler}}. Trailer pertama film ini diluncurkan pada 23 Oktober 2008. Dalam sebuah rumah yang nyaman di pinggiran kota Michigan, {M3:jenis="" Stuart Pearson} ({M4:jenis="" {M3:jenis="" Kevin Nealon}}) dan istrinya {M5:jenis="" Nina} ({M5:jenis="" {M7:jenis="" Gillian Vigman}})keluarga yang mencakup {M6:jenis="" Hannah} yang berumur tujuh tahun({M6:jenis="" {M9:jenis="" Ashley Boettcher}}), {M8:jenis="" Tom} yang berumur 15 tahun ({M8:jenis="" {M11:jenis="" Carter Jenkins}}) dan kakaknya {M10:jenis="" Bethany} ({M10:jenis="" {M13:jenis="" Ashley Tisdale}}), yang baru saja kembali dari tamasya rahasia dengan pacar {M12:jenis="" Ricky Dillman} ({M12:jenis="" {M15:jenis="" Robert Hoffman}}). {M14:jenis="" Stuart membawa keluarganya} ke sebuah rumah liburan di antah berantah. Yang bergabung dengan {M16:jenis="" {M14:jenis="" mereka}} adalah {M17:jenis="" Paman Nate}({M17:jenis="" {M19:jenis="" Andy Richter}}), putra {M18:jenis="" Jake Pearson}({M20:jenis="" {M18:jenis="" Austin Butler}}), dan nenek mereka {M21:jenis="" Nana Rose} ({M22:jenis="" {M21:jenis="" Doris Roberts}}), dan kembar identik berumur 11 tahun, {M23:jenis="" Art} ({M24:jenis="" {M23:jenis="" Henri Young}}) dan {M25:jenis="" Lee} ({M25:jenis="" {M27:jenis="" Regan Young}}). Sebuah kedatangan yang tak terduga adalah {M26:jenis="" pacar Bethany}, {M26:jenis="" {M29:jenis="" Ricky}}, yang ikut kunjungan bersama dengan keluarga mereka. Saat hari berubah menjadi malam, awan badai gelap mulai berputar-putar di sekitar rumah. Tiba-tiba, empat benda bercahaya menembak ke arah atap. Awak asing dalam objek terdiri dari {M28:jenis="" Skip}, {M30:jenis="" {M28:jenis="" komandan tangguh}}, {M31:jenis="" Tazer}, {M32:jenis="" {M31:jenis="" sebuah dude berotot bersenjata lengkap}}, {M33:jenis="" Razor}, {M34:jenis="" {M33:jenis="" seorang tentara perempuan yang mematikan}}; dan {M35:jenis="" Sparks alien bertangan empat} yang merupakan {M36:jenis="" {M35:jenis="" satu-satunya penyusup yang tidak mengancam}}. {M37:jenis="" Ricky} dan {M38:jenis="" Tom} dikirim untuk memperbaiki satelit untuk TV karena alien jatuh ke dalamnya. Ricky kemudian mengungkapkan kepada Tom bahwa ia berbohong tentang segala sesuatu yang berkata kepada keluarganya, seperti mobil mogok, orang tuanya memiliki rumah pantai, dia berumur 18. Ricky sebenarnya sudah bersekolah di perguruan tinggi, dan dia paling tidak 5 tahun lebih tua dari Bethany. Ricky berada di bawah kendali para alien, yang memiliki perangkat pengontrol pikiran teknologi tinggi dan steker yang ditanamkan ke tengkuknya, yang mengontrol pikiran dan tindakan-tindakannya. Tidak lama sebelum semua lima anak melihat pendatang baru yang aneh, anak-anak menyadari perangkat pengontrol pikiran hanya bekerja pada orang dewasa, dan memberi {M39:jenis="" {M37:jenis="" {M38:jenis="" mereka}}} kesempatan untuk mereka berperang melawan alien-alien itu - dan tanggung jawab untuk melindungi orang-orang dewasa dengan mempertahankan keberadaan alien rahasia. Anak-anak itu membuat perangkat mereka sendiri: menciptakan senjata darurat, seperti perpipaan cerdik dicurangi sebagai rumah yang dibuat pistol kentang kentang. Mereka bahkan belajar menggunakan pengontrol pikiran. Agar usaha pertama mereka adalah untuk mengambil alih Ricky dan gilirannya tindakan melawan dirinya sendiri dan orang asing. Orang-orang dewasa tetap tidak menyadari kehadiran alien-alien, dan bersikeras bahwa anak-anak akan berpartisipasi dalam ekspedisi memancing. Sementara itu, persahabatan dipikul antara {M40:jenis="" Hannah dan Sparks}, {M41:jenis="" {M40:jenis="" alien bersahabat dengan empat lengan dan tangan}}. Tidak seperti alien yang lain , Sparks tidak memiliki keberanian untuk berperang, ia hanya ingin pulang ke keluarganya. {M42:jenis="" Nana Rose} datang di bawah kendali perangkat pengontrol pikiran, yang memberikan kekuatan super-manusia dan kelincahan. Di bawah kendali anak-anak, {M43:jenis="" {M42:jenis="" dia}} datang untuk menyelamatkan mereka dan harus melawan Ricky, yang lagi di bawah kontrol alien. Nana memberi Ricky hentakan besar yang menyebabkan steker tercabut dan putus dengan Bethany karena menurut pendapatnya ia berbicara tentang perasaan dan keluarga sepanjang waktu. Anak-anak mengungkapkan apa yang terjadi kepada Bethany, dan Sparks membantu dengan membuat senjata sehingga anak-anak bisa melawan. Sparks mengungkapkan bahwa apa yang alien inginkan dari planet mereka adalah perangkat di bawah lantai dasar yang membuat mereka berukuran raksasa. Anak-anak menghancurkan {M44:jenis="" Skip}, {M44:jenis="" Tazer} & {M46:jenis="" Razor}. Sparks panggilan dari invasi dan pulang kembali. Sisa liburan kembali ke normal, kecuali anak-anak tumbuh lebih dekat satu sama lain selama petualangan {M47:jenis="" {M44:jenis="" {M44:jenis="" {M46:jenis="" mereka}}}}. Ketika mereka pulang, Ricky mulai mengunjungi pacar lamanya, tetapi Betania dan Tom mengambil keuntungan darinya dengan menggunakan alat kontrol pikiran. Bethany menerpa dia keluar rumah, meninggalkan dia bertanya-tanya apa yang terjadi pada mereka 5 menit terakhir. 
+
+
+
+#COLOR:M1=hsl(0, 100%, 80%)
+#COLOR:M3=hsl(25, 100%, 80%)
+#COLOR:M5=hsl(50, 100%, 80%)
+#COLOR:M6=hsl(75, 100%, 80%)
+#COLOR:M8=hsl(100, 100%, 80%)
+#COLOR:M10=hsl(125, 100%, 80%)
+#COLOR:M12=hsl(150, 100%, 80%)
+#COLOR:M14=hsl(175, 100%, 80%)
+#COLOR:M17=hsl(200, 100%, 80%)
+#COLOR:M18=hsl(225, 100%, 80%)
+#COLOR:M21=hsl(250, 100%, 80%)
+#COLOR:M23=hsl(275, 100%, 80%)
+#COLOR:M25=hsl(300, 100%, 80%)
+#COLOR:M26=hsl(325, 100%, 80%)
+#COLOR:M28=hsl(350, 100%, 80%)
+#COLOR:M31=hsl(0, 100%, 70%)
+#COLOR:M33=hsl(25, 100%, 70%)
+#COLOR:M35=hsl(50, 100%, 70%)
+#COLOR:M37=hsl(75, 100%, 70%)
+#COLOR:M38=hsl(100, 100%, 70%)
+#COLOR:M40=hsl(125, 100%, 70%)
+#COLOR:M42=hsl(150, 100%, 70%)
+#COLOR:M44=hsl(175, 100%, 70%)
+#COLOR:M46=hsl(200, 100%, 70%)
+
+#TOKENIZATION-TYPE:3
+
