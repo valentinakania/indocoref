@@ -47,13 +47,29 @@ If *scorch* is giving out errors in Windows, please run from Linux/Mac machine.
 
 Experimenting on Multi Pass Sieve can be done through commenting out lines of unused pass(es).
 
-## Authors
+## Citation Information
 
-* **Valentina Artari** - *Faculty of Computer Science, Universitas Indonesia* - [Github](https://github.com/valentinakania)
-* **Rahmad Mahendra, S.Kom., M.Sc.** - *Faculty of Computer Science, Universitas Indonesia*
-* **Meganingrum Arista Jiwanggi, S.Kom., M.Kom., M.C.S.** - *Faculty of Computer Science, Universitas Indonesia*
-* **Adityo Anggraito** - *Faculty of Computer Science, Universitas Indonesia*
-* **Dr. Indra Budi, S.Kom., M.Kom.** - *Faculty of Computer Science, Universitas Indonesia*
+If you find this work useful in your research, please cite as below:
+
+Cite (ACL)
+
+    Valentina Kania Prameswara Artari, Rahmad Mahendra, Meganingrum Arista Jiwanggi, Adityo Anggraito, and Indra Budi. 2021. A Multi-PassSieve Coreference Resolution for Indonesian. In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021), pages 79–85, Held Online. 
+
+Cite (Bibtex)
+
+    @inproceedings{artari-etal-2021-multi,
+      title        = {A Multi-Pass Sieve Coreference Resolution for {I}ndonesian},
+      author       = {Artari, Valentina Kania Prameswara  and Mahendra, Rahmad  and Jiwanggi, Meganingrum Arista  and Anggraito, Adityo  and Budi, Indra},
+      year         = 2021,
+      month        = sep,
+      booktitle    = {Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)},
+      publisher    = {INCOMA Ltd.},
+      address      = {Held Online},
+      pages        = {79--85},
+      url          = {https://aclanthology.org/2021.ranlp-1.10},
+      abstract     = {Coreference resolution is an NLP task to find out whether the set of referring expressions belong to the same concept in discourse. A multi-pass sieve is a deterministic coreference model that implements several layers of sieves, where each sieve takes a pair of correlated mentions from a collection of non-coherent mentions. The multi-pass sieve is based on the principle of high precision, followed by increased recall in each sieve. In this work, we examine the portability of the multi-pass sieve coreference resolution model to the Indonesian language. We conduct the experiment on 201 Wikipedia documents and the multi-pass sieve system yields 72.74{\%} of MUC F-measure and 52.18{\%} of BCUBED F-measure.}
+    }
+    
 
 ## License
 
